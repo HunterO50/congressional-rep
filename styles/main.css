@@ -1,0 +1,49 @@
+/*Header at top of page*/
+.top{
+    border-width: 2px;
+    border-style: groove;
+    border-color: red;
+}
+/*Bio area containing district*/
+.district{border-width: 2px;
+    border-style: groove;
+    border-color: red;
+    padding: 1%;
+    margin: 1%;
+
+}
+/*Bio area containing political party*/
+.party{
+    border-width: 2px;
+    border-style: groove;
+    border-color: blue;
+    padding: 1%;
+    margin: 1%;
+}
+/*Committees the representative are on*/
+.committees{
+    border-width: 2px;
+    border-style: groove;
+    border-color: red;
+    padding: 1%;
+    margin: 1%;
+}
+/*Caucuses the representative are on. caucus1/2 being used to add different colors alternating*/
+.caucus1{
+    border-width: 2px;
+    border-style: groove;
+    border-color: blue;
+    padding: 1%;
+    margin: 1%;
+  
+}
+
+.caucus2{
+    border-width: 2px;
+    border-style: groove;
+    border-color:red;
+    padding: 1%;
+    margin: 2%;
+    
+
+}
